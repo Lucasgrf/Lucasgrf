@@ -33,9 +33,8 @@
 
 <br/>
 
-<a href="https://github.com/Lucasgrf" title="Perfil do Lucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasgrf&theme=dracula&show_icons=true" />
-</a>
+[![lucasgrf](https://github-readme-stats.vercel.app/api?username=lucasgrf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![lucasgrf](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgrf&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
