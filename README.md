@@ -1,10 +1,12 @@
-![](https://komarev.com/ghpvc/?username=Lucasgrf&color=006bed)
+![](https://komarev.com/ghpvc/?username=Lucasgrf&color=006bed) 
 
 ## Sobre mim
 
 - 🤔 Aprendendo novas tecnologias e fazendo mini projetos.
 - 🎓 Estudando Ciência da Computação na UFPB - PB.
 - 🌱 Aprendendo mais sobre HTML, CSS e Javascript, Docker, Angular(Java) e SpringBoot.
+
+<img align="right" width="350" height="250" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif">
 
 ## Minhas Skills
 
@@ -20,7 +22,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 **DevOps**
-
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -31,7 +32,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)
 
-<br/>
+<br/><img align="right" width="250" height="250" src="https://media.tenor.com/D4JUqaLLgeoAAAAi/one-piece-pixel.gif">
 
 [![lucasgrf](https://github-readme-stats.vercel.app/api?username=lucasgrf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![lucasgrf](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgrf&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
