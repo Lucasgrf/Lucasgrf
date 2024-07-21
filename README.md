@@ -6,9 +6,7 @@
 - 🎓 Estudando Ciência da Computação na UFPB - PB.
 - 🌱 Aprendendo mais sobre HTML, CSS e Javascript, Docker, Angular(Java) e SpringBoot.
 
-<img align="right" width="250" height="250" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif">
-
-## Minhas Skills
+## Minhas Skills <img align="right" width="250" height="250" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif">
 
 **Aplicações e dados**
 
