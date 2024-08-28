@@ -38,6 +38,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Lucasgrf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucasgrf)]
+[![Linkedin](https://img.shields.io/badge/-Lucasgrf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgrf)](https://www.linkedin.com/in/lucasgrf)
 [![Gmail Badge](https://img.shields.io/badge/-lucasgabrielrf.contato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgabrielrf.contato@gmail.com)](mailto:lucasgabrielrf.contato@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Lucasgrf?label=follow&style=social)](https://github.com/Lucasgrf)
