@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Aprendendo novas tecnologias e fazendo mini projetos.
-- 🎓 Estudando Ciência da Computação na UFPB - PB.
-- 🌱 Aprendendo mais sobre Docker, Angular e SpringBoot.
+- 🎓 Estudando Engenharia de Software na Jala University.
+- 🌱 Aprendendo mais sobre Java, Docker, Angular e SpringBoot.
 
 ## Minhas Skills <img align="right" width="250" height="250" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif">
 
