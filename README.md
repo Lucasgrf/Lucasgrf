@@ -31,6 +31,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white)
 
 **Development tools**
 
@@ -46,6 +47,7 @@
 
 ## Where to find me
 
-[![Linkedin](https://img.shields.io/badge/-Lucasgrf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgrf)](https://www.linkedin.com/in/lucasgrf)
-[![Gmail Badge](https://img.shields.io/badge/-lucasgabrielrf.contato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgabrielrf.contato@gmail.com)](mailto:lucasgabrielrf.contato@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgrf)](https://www.linkedin.com/in/lucasgrf)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgabrielrf.contato@gmail.com)](mailto:lucasgabrielrf.contato@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/lucasgrf_/)
 [![GitHub](https://img.shields.io/github/followers/Lucasgrf?label=follow&style=social)](https://github.com/Lucasgrf)
