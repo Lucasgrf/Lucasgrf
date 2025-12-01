@@ -1,53 +1,92 @@
-![](https://komarev.com/ghpvc/?username=Lucasgrf&color=006bed) 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lucasgrf&color=006bed" alt="Profile Views" />
+</div>
 
-## About me
+<h1 align="center">Hey there! I'm Lucas 👋</h1>
 
-- 🤔 Learning new technologies and doing mini projects.
-- 🎓 Studying Software Engineering at Jala University.
-- 🌱 Studying more about Java, Docker, Angular, and SpringBoot.
-- 🩻 Cybersecurity Enthusiast.
+<div align="center">
+  <h3>Software Engineering Student @ Jala University | Java & Coffee</h3>
+</div>
 
-## My Skills <img align="right" width="250" height="250" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif">
+<br/>
 
-**Languages**
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>⚡ About Me</h2>
+      <p>
+        I'm a developer passionate about building robust systems. Currently, I'm diving deep into the <b>Backend</b> world with Java, but I'm also expanding my horizons to Fullstack development with Node.js and React.
+      </p>
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Mastering Microservices with Spring Boot & SQL Server.</li>
+        <li>🌱 <b>Learning:</b> Creating interactive frontends with React + Vite.</li>
+        <li>🛡️ <b>Interest:</b> Applying Cybersecurity best practices in code.</li>
+        <li>⚡ <b>Fun fact:</b> I love turning coffee into code and exploring the Grand Line of software engineering.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+<br/>
 
-**Others**
+<div align="center"> 
+  <h2>🚀 My Arsenal</h2>
+  
+  <p><b>Core Stack (The Heavy Lifters)</b></p>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,linux,git,idea&perline=7" />
+  </a>
 
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+  <br/><br/>
+  
+  <p><b>New Adventures & Frontend (Learning Path)</b></p>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,vite,angular,html,css,js,ts,py&perline=9" />
+  </a>
+  
+  <br/><br/>
+  
+  <p><b>Databases & Tools</b></p>
+   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
-**DevOps**
+</div>
 
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=Postman&logoColor=white)
+<br/>
 
-**Development tools**
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.tenor.com/D4JUqaLLgeoAAAAi/one-piece-pixel.gif" width="150px">
+    </td>
+    <td align="center" width="50%">
+      <h3>📈 GitHub Stats</h3>
+      <div align="center">
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=Lucasgrf&theme=dark&show_icons=true&hide_border=true" />
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgrf&hide=html&layout=compact&theme=dark&hide_border=true" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+<hr/>
 
-<br/><img align="right" width="250" height="250" src="https://media.tenor.com/D4JUqaLLgeoAAAAi/one-piece-pixel.gif">
-
-[![lucasgrf](https://github-readme-stats.vercel.app/api?username=lucasgrf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![lucasgrf](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgrf&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Where to find me
-
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgrf)](https://www.linkedin.com/in/lucasgrf)
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgabrielrf.contato@gmail.com)](mailto:lucasgabrielrf.contato@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/lucasgrf_/)
-[![GitHub](https://img.shields.io/github/followers/Lucasgrf?label=follow&style=social)](https://github.com/Lucasgrf)
+<div align="center">
+  <h3>📫 Connect with me</h3>
+  <a href="https://www.linkedin.com/in/lucasgrf" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lucasgabrielrf.contato@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/lucasgrf_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
+</div>
