@@ -69,8 +69,9 @@
     <td align="center" width="50%">
       <h3>📈 GitHub Stats</h3>
       <div align="center">
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=Lucasgrf&theme=dark&show_icons=true&hide_border=true" />
-        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgrf&hide=html&layout=compact&theme=dark&hide_border=true" />
+        <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasgrf&theme=dark" alt="Stats" />
+        <br/>
+        <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasgrf&theme=dark" alt="Languages" />
       </div>
     </td>
   </tr>
