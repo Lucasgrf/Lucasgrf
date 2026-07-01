@@ -5,7 +5,7 @@
 <h1 align="center">Hey there! I'm Lucas 👋</h1>
 
 <div align="center">
-  <h3>Software Engineering Student @ Jala University | Java & Coffee</h3>
+  <h3>Software Engineering Student @ Jala University | Backend & Mobile Engineering</h3>
 </div>
 
 <br/>
@@ -15,12 +15,12 @@
     <td width="60%" valign="top">
       <h2>⚡ About Me</h2>
       <p>
-        I'm a developer passionate about building robust systems. Currently, I'm diving deep into the <b>Backend</b> world with Java, but I'm also expanding my horizons to Fullstack development with Node.js and React.
+        I'm a software engineer passionate about building robust backend architectures and resilient mobile clients. I bridge the gap between server-side reliability and smooth client experiences, working primarily with Java (Spring Boot) and Dart (Flutter).
       </p>
       <ul>
-        <li>🔭 <b>Current Focus:</b> Mastering Microservices with Spring Boot & SQL Server.</li>
-        <li>🌱 <b>Learning:</b> Creating interactive frontends with React + Vite.</li>
-        <li>🛡️ <b>Interest:</b> Applying Cybersecurity best practices in code.</li>
+        <li>🔭 <b>Current Focus:</b> Highly-scalable Microservices and offline-first mobile systems.</li>
+        <li>🌱 <b>Learning:</b> Reactive state management (BLoC/Cubit), local caching, and contract parity (TS/Dart).</li>
+        <li>🛡️ <b>Interest:</b> Data hardening in local mobile storage and stateless API security.</li>
         <li>⚡ <b>Fun fact:</b> I love turning coffee into code and exploring the Grand Line of software engineering.</li>
       </ul>
     </td>
@@ -38,12 +38,12 @@
   <p><b>Core Stack (The Heavy Lifters)</b></p>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,linux,git,idea&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,mysql,docker,linux,git,idea&perline=9" />
   </a>
 
   <br/><br/>
   
-  <p><b>New Adventures & Frontend (Learning Path)</b></p>
+  <p><b>Web Frontend & Tools (Supporting Stack)</b></p>
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,react,vite,angular,html,css,js,ts,py&perline=9" />
@@ -52,9 +52,9 @@
   <br/><br/>
   
   <p><b>Databases & Tools</b></p>
-   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 </div>
