@@ -31,9 +31,9 @@ Portfolio, case studies, and technical writing: **[lucasgrf.vercel.app](https://
 
 Some of my strongest work lives in private/commercial repositories; architecture breakdowns are available on my portfolio:
 
-- **Bússola da Gestão (Mobile Platform):** Unified React Native (Expo) + TypeScript app shipped to Google Play (`v1.0.2`), featuring OAuth2 PKCE authentication with transparent token refresh, biometric unlock, custom design system, and ADRs documenting the Flutter-to-React Native migration.
+- **[Bússola da Gestão (Mobile Platform)](https://lucasgrf.vercel.app/projects/bussola-da-gestao):** Unified React Native (Expo) + TypeScript app shipped to Google Play (`v1.0.2`), featuring OAuth2 PKCE authentication with transparent token refresh, biometric unlock, custom design system, and ADRs documenting the Flutter-to-React Native migration.
 - **[Argo (`construction-ops`)](https://lucasgrf.vercel.app/projects/argo):** Offline-first PWA for civil construction warehouse operations built for harsh field usage (Next.js, TypeScript, Supabase, Tailwind CSS).
-- **Flux AI:** Multi-tenant SaaS platform for WhatsApp AI customer support with RAG, Redis/BullMQ queues, Mercado Pago subscription billing, and Sentry observability (Node.js 22, TypeScript, Fastify, Supabase `pgvector`, React).
+- **[Flux AI](https://lucasgrf.vercel.app/projects/flux-ai):** Multi-tenant SaaS platform for WhatsApp AI customer support with RAG, Redis/BullMQ queues, Mercado Pago subscription billing, and Sentry observability (Node.js 22, TypeScript, Fastify, Supabase `pgvector`, React).
 
 ---
 
