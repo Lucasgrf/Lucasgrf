@@ -1,93 +1,53 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lucasgrf&color=006bed" alt="Profile Views" />
-</div>
+# Lucas Ferreira
 
-<h1 align="center">Hey there! I'm Lucas 👋</h1>
+**Software Engineer · Backend Systems & Resilient Mobile Clients**
 
-<div align="center">
-  <h3>Software Engineering Student @ Jala University | Backend & Mobile Engineering</h3>
-</div>
+Building predictable backend APIs, event-driven services, and offline-first mobile applications.  
+Portfolio, case studies, and technical writing: **[lucasgrf.vercel.app](https://lucasgrf.vercel.app)**
 
-<br/>
+---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2>⚡ About Me</h2>
-      <p>
-        I'm a software engineer passionate about building robust backend architectures and resilient mobile clients. I bridge the gap between server-side reliability and smooth client experiences, working primarily with Java (Spring Boot) and Dart (Flutter).
-      </p>
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Highly-scalable Microservices and offline-first mobile systems.</li>
-        <li>🌱 <b>Learning:</b> Reactive state management (BLoC/Cubit), local caching, and contract parity (TS/Dart).</li>
-        <li>🛡️ <b>Interest:</b> Data hardening in local mobile storage and stateless API security.</li>
-        <li>⚡ <b>Fun fact:</b> I love turning coffee into code and exploring the Grand Line of software engineering.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" width="100%">
-    </td>
-  </tr>
-</table>
+## Core Engineering Focus
 
-<br/>
+- **Backend & Distributed Systems:** Java 17/21 (Spring Boot 3, Spring Cloud, JPA/Hibernate), TypeScript / Node.js (Fastify, Express), REST API design, JWT stateless security, RabbitMQ, Redis, PostgreSQL, and MongoDB.
+- **Mobile & Offline-First:** Flutter / Dart (Riverpod, Drift, clean storage contracts) and React Native / Expo (TypeScript, TanStack Query, OAuth2 PKCE, local persistence).
+- **Reliability & Maintainability:** Clean Architecture, DDD boundaries, JUnit 5 / Mockito / Testcontainers, Vitest, Docker, CI/CD, and Architecture Decision Records (ADRs).
 
-<div align="center"> 
-  <h2>🚀 My Arsenal</h2>
-  
-  <p><b>Core Stack (The Heavy Lifters)</b></p>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,mysql,docker,linux,git,idea&perline=9" />
-  </a>
+---
 
-  <br/><br/>
-  
-  <p><b>Web Frontend & Tools (Supporting Stack)</b></p>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,vite,angular,html,css,js,ts,py&perline=9" />
-  </a>
-  
-  <br/><br/>
-  
-  <p><b>Databases & Tools</b></p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+## Selected Public Repositories
 
-</div>
+| Project | Focus | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[ecommerce-microservices](https://github.com/Lucasgrf/ecommerce-microservices)** | Event-driven e-commerce platform with API Gateway, caching, circuit breakers, and integration tests | Java 17, Spring Boot 3.5, RabbitMQ, Redis, PostgreSQL, MongoDB, Resilience4j, Docker | [Case Study](https://lucasgrf.vercel.app/projects/microservices-ecosystem) |
+| **[cactinho](https://github.com/Lucasgrf/cactinho)** | Ultra-fast expense capture app (`<10s` flow), archived as an open engineering & product post-mortem | Java, Spring Boot 3, TypeScript, React, PostgreSQL, Docker | [Case Study](https://lucasgrf.vercel.app/projects/cactinho) |
+| **[flutter-offline-queue](https://github.com/Lucasgrf/flutter-offline-queue)** | Storage-agnostic FIFO offline mutation queue with exponential backoff + jitter and sync lock safety | Dart, Flutter, Clean Architecture, Unit Tests | [Case Study](https://lucasgrf.vercel.app/projects/flutter-offline-queue) |
+| **[loans-app](https://github.com/Lucasgrf/loans-app)** | Layered banking loan lifecycle module with connection pooling, checkstyle, CI, and architecture docs | Java 17, JPA/Hibernate 6, MySQL, HikariCP, JavaFX, JUnit 5 | — |
+| **[ForumHub](https://github.com/Lucasgrf/ForumHub)** | Stateless REST API with DDD layering, Flyway migrations, and role-scoped authorization | Java 21, Spring Boot 3, Spring Security, JWT, Flyway | [Case Study](https://lucasgrf.vercel.app/projects/forumhub-api) |
 
-<br/>
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media.tenor.com/D4JUqaLLgeoAAAAi/one-piece-pixel.gif" width="150px">
-    </td>
-    <td align="center" width="50%">
-      <h3>📈 GitHub Stats</h3>
-      <div align="center">
-        <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasgrf&theme=dark" alt="Stats" />
-        <br/>
-        <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasgrf&theme=dark" alt="Languages" />
-      </div>
-    </td>
-  </tr>
-</table>
+## Production & Private Systems
 
-<hr/>
+Some of my strongest work lives in private/commercial repositories; architecture breakdowns are available on my portfolio:
 
-<div align="center">
-  <h3>📫 Connect with me</h3>
-  <a href="https://www.linkedin.com/in/lucasgrf" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:lucasgabrielrf.contato@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/lucasgrf_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-  </a>
-</div>
+- **Bússola da Gestão (Mobile Platform):** Unified React Native (Expo) + TypeScript app shipped to Google Play (`v1.0.2`), featuring OAuth2 PKCE authentication with transparent token refresh, biometric unlock, custom design system, and ADRs documenting the Flutter-to-React Native migration.
+- **[Argo (`construction-ops`)](https://lucasgrf.vercel.app/projects/argo):** Offline-first PWA for civil construction warehouse operations built for harsh field usage (Next.js, TypeScript, Supabase, Tailwind CSS).
+- **Flux AI:** Multi-tenant SaaS platform for WhatsApp AI customer support with RAG, Redis/BullMQ queues, Mercado Pago subscription billing, and Sentry observability (Node.js 22, TypeScript, Fastify, Supabase `pgvector`, React).
+
+---
+
+## Selected Technical Writing
+
+- [Synchronization Strategies in Offline-First Mobile Apps](https://lucasgrf.vercel.app/blog/offline-first-sync-strategy)
+- [Domain-Driven Design (DDD) in Practice](https://lucasgrf.vercel.app/blog/ddd-in-practice)
+- [The Eternal Battle: Microservices vs Monolith](https://lucasgrf.vercel.app/blog/microservices-vs-monolith)
+- [SDD (Software Design Document): How to Document Architecture](https://lucasgrf.vercel.app/blog/documenting-architecture-sdd)
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-lucasgrf.vercel.app-111827?style=flat-square)](https://lucasgrf.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasgrf-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgrf)
+[![Email](https://img.shields.io/badge/Email-lucasgabrielrf.contato%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasgabrielrf.contato@gmail.com)
